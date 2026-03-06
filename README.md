@@ -33,7 +33,7 @@ During this week, I practiced:
 ## Project Structure
 
 \`\`\`
-iyf-s10-week-03-yourusername/
+iyf-s10-week-03-denzelanyiko3-source/
 ├── index.html
 ├── about.html
 ├── projects.html
